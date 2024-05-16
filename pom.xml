@@ -22,12 +22,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-bus-amqp -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-bus-amqp</artifactId>
-			<version>4.1.1</version>
-		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -64,7 +58,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>samiyounis01/${project.artifactId}:s6</image>
+						<image>samiyounis01/${project.artifactId}:s7</image>
 					</to>
 				</configuration>
 			</plugin>
