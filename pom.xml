@@ -58,7 +58,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>samiyounis01/${project.artifactId}:s7</image>
+						<image>samiyounis01/${project.artifactId}:s8</image>
 					</to>
 				</configuration>
 			</plugin>
